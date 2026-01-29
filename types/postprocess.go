@@ -48,7 +48,7 @@ func RemoveBackground() Postprocess {
 func (p Postprocess) Validate() error {
 	if p.Process == ProcessUpscale {
 		if p.UpscaleFactor < 2 || p.UpscaleFactor > 4 {
-			return ErrInvalidUpscale
+			return ErrInvalidUpscale{}
 		}
 	}
 	return nil
